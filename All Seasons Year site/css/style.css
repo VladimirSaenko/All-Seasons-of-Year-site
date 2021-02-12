@@ -2,13 +2,12 @@
 * {
     user-select: none;
     outline: none;
+    user-zoom: fixed;
 }
-
 
 .slider {
     display: flex;
     justify-content: center;
-
 }
 
 .item {
@@ -28,7 +27,6 @@
 .item:hover {
     flex-basis: 70%;
 }
-
 
 span {
     color: white;
@@ -105,5 +103,3 @@ a {
     color: pink;
     transition: 0.5s;
 }
-
-
