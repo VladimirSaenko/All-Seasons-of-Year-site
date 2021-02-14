@@ -31,6 +31,7 @@ span {
     color: white;
     font-size: 70px;
     text-shadow: 5.5px 10px 1px black;
+    user-select: text;
 }
 
 a {
