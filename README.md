@@ -2,6 +2,8 @@
  
 Сайт со всеми временами года
 
+![232331](https://user-images.githubusercontent.com/56477695/116581733-50392480-a91d-11eb-908e-4bbd5d410b3f.png)
+
 Portfolio-2 {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/All%20Seasons%20Year%20site/index.html
