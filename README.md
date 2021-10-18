@@ -7,7 +7,7 @@
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/All%20Seasons%20Year%20site/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/All%20Seasons%20Year%20site/index.html
 
 ### }
 
@@ -15,7 +15,7 @@
 
 ### https://vladimirsaenko.github.io/Summer-Its-Cool-site/
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Summer%20its%20cool/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-1/Summer%20its%20cool/index.html
   
 ### https://github.com/VladimirSaenko/Summer-Its-Cool-site
   
@@ -25,7 +25,7 @@
 
 ### https://vladimirsaenko.github.io/Winter-Its-Cool-site/
   
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Winter%20Its%20Cool/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/Winter%20Its%20Cool/index.html
   
 ### https://github.com/VladimirSaenko/Winter-Its-Cool-site
   
@@ -35,7 +35,7 @@
 
 ### https://vladimirsaenko.github.io/Spring-Its-Cool-site/
   
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/Spring%20Its%20Cool/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-19/Spring%20Its%20Cool/index.html
   
 ### https://github.com/VladimirSaenko/Spring-Its-Cool-site 
   
@@ -45,7 +45,7 @@
 
 ### https://vladimirsaenko.github.io/Autumn-Its-Cool-site/
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-22/Autumn%20Its%20Cool/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Autumn%20Its%20Cool/index.html
   
 ### https://github.com/VladimirSaenko/Autumn-Its-Cool-site
   
