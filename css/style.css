@@ -6,6 +6,7 @@
     user-select: none;
     margin: 0;
     padding: 0;
+    cursor: default:
 }
 
 .slider {
@@ -16,8 +17,6 @@
 .item {
     user-select: none;
     border: 1px solid black;
-    /* cursor: default; */
-    cursor: pointer;
     height: 100vh;
     display: flex;
     flex-basis: 25%;
