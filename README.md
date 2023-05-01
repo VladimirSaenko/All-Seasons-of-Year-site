@@ -5,7 +5,7 @@
 ![232331](https://user-images.githubusercontent.com/56477695/116581733-50392480-a91d-11eb-908e-4bbd5d410b3f.png)
 ![photo_2021-06-07_23-18-42](https://user-images.githubusercontent.com/56477695/121087439-1f39f280-c7ed-11eb-8760-4a235df6d04f.jpg)
 
-## Лето {
+## Summer {
 
 ### https://vladimirsaenko.github.io/Summer-Its-Cool-site/
 
@@ -15,7 +15,7 @@
   
 ### }
 
-## Зима {
+## Winter {
 
 ### https://vladimirsaenko.github.io/Winter-Its-Cool-site/
   
@@ -23,7 +23,7 @@
   
 ### }
 
-## Весна {
+## Spring {
 
 ### https://vladimirsaenko.github.io/Spring-Its-Cool-site/
   
@@ -31,7 +31,7 @@
   
 ### }
   
-## Осень {
+## Autumn {
 
 ### https://vladimirsaenko.github.io/Autumn-Its-Cool-site/
   
