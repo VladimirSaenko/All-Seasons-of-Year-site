@@ -1,7 +1,6 @@
 # All-Seasons-of-Year-site
  
-![232331](https://user-images.githubusercontent.com/56477695/116581733-50392480-a91d-11eb-908e-4bbd5d410b3f.png)
-![photo_2021-06-07_23-18-42](https://user-images.githubusercontent.com/56477695/121087439-1f39f280-c7ed-11eb-8760-4a235df6d04f.jpg)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/235465118-aba95cf2-68a9-4e1d-bebd-7b4af43d33de.jpg)
 
 ## Summer {
 
